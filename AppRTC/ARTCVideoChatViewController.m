@@ -10,6 +10,7 @@
 #import <AVFoundation/AVFoundation.h>
 
 #define SERVER_HOST_URL @"https://appr.tc"
+//#define SERVER_HOST_URL @"http://192.168.1.249"
 
 @implementation ARTCVideoChatViewController
 
